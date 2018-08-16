@@ -1,0 +1,31 @@
+#container {
+    text-align: center;
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    background-color: rgb(173,216,230,.5);
+    padding: 20px;
+    border-radius: 10px 10px 10px 10px;
+    color: white;    
+}
+h2 {
+    color:navy;
+}
+input {
+    width: 70%;
+    border-radius: 5px 5px 5px 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border: none;    
+}
+input:hover {
+    background-color: lightblue;
+}
+#search {
+    width: 15%;
+    padding: 5px;
+    background-color: navy;
+    color: white;
+    border: 1px solid navy;
+}
